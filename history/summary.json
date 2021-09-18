@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.000webhost.com",
     "slug": "000webhost-com",
     "status": "down",
-    "uptime": "90.45%",
-    "uptimeDay": "90.45%",
-    "uptimeWeek": "90.45%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "90.45%",
+    "uptime": "90.83%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "90.83%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "90.83%",
     "time": 78,
     "timeDay": 78,
     "timeWeek": 78,
@@ -169,11 +169,11 @@
     "icon": "https://favicons.githubusercontent.com/cp.cloudraya.com",
     "slug": "cp-cloudraya-com",
     "status": "up",
-    "uptime": "92.70%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "92.70%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "92.70%",
+    "uptime": "93.00%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "93.00%",
     "time": 1339,
     "timeDay": 1339,
     "timeWeek": 1339,
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-18": 258
+      "2021-09-18": 269
     }
   },
   {
@@ -1036,19 +1036,19 @@
     "url": "https://bestariwebhost.co.id",
     "icon": "https://favicons.githubusercontent.com/bestariwebhost.co.id",
     "slug": "bestariwebhost-co-id",
-    "status": "up",
-    "uptime": "67.05%",
-    "uptimeDay": "67.05%",
-    "uptimeWeek": "67.05%",
-    "uptimeMonth": "67.05%",
-    "uptimeYear": "67.05%",
+    "status": "down",
+    "uptime": "68.03%",
+    "uptimeDay": "68.03%",
+    "uptimeWeek": "68.03%",
+    "uptimeMonth": "68.03%",
+    "uptimeYear": "68.03%",
     "time": 2026,
     "timeDay": 2026,
     "timeWeek": 2026,
     "timeMonth": 2026,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2021-09-18": 85
+      "2021-09-18": 86
     }
   },
   {
@@ -1380,19 +1380,19 @@
     "url": "https://berdu.id",
     "icon": "https://favicons.githubusercontent.com/berdu.id",
     "slug": "berdu-id",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1812,
-    "timeDay": 1812,
-    "timeWeek": 1812,
-    "timeMonth": 1812,
-    "timeYear": 1812,
+    "status": "up",
+    "uptime": "95.93%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "95.93%",
+    "time": 1803,
+    "timeDay": 1803,
+    "timeWeek": 1803,
+    "timeMonth": 1803,
+    "timeYear": 1803,
     "dailyMinutesDown": {
-      "2021-09-18": 1
+      "2021-09-18": 11
     }
   },
   {
