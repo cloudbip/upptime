@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: 000webhost.com
-    url: https://000webhost.com
+    url: https://www.000webhost.com
   - name: ach.id
     url: https://ach.id
   - name: ardhosting.com
@@ -49,8 +49,6 @@ sites:
     url: https://console.idcloudhost.com
   - name: my.idcloudhost.com
     url: https://my.idcloudhost.com
-  - name: dapurhosting.com
-    url: https://dapurhosting.com
   - name: dewaweb.com
     url: https://dewaweb.com
   - name: dijaminmurah.com
@@ -81,8 +79,6 @@ sites:
     url: https://member.idwebhost.com   
   - name: indosite.com
     url: https://indosite.com
-  - name: indukweb.com
-    url: https://indukweb.com
   - name: Jagoanhosting.com
     url: https://www.jagoanhosting.com
   - name: jakartawebhosting.com
@@ -123,8 +119,6 @@ sites:
     url: https://www.telkomsigma.co.id
   - name: bestariwebhost.co.id
     url: https://bestariwebhost.co.id
-  - name: rajamitra.co.id
-    url: https://rajamitra.co.id
   - name: kencengsolusindo.co.id
     url: https://kencengsolusindo.co.id
   - name: webiihost.com
