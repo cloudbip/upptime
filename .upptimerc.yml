@@ -3,14 +3,181 @@ owner: cloudbip # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Jagoanhosting.com
-    url: https://www.jagoanhosting.com
+  - name: 000webhost.com
+    url: https://000webhost.com
+  - name: ach.id
+    url: https://ach.id
+  - name: ardhosting.com
+    url: https://ardhosting.com
+  - name: argonhost.com
+    url: https://argonhost.com
   - name: Beon.co.id
     url: https://beon.co.id
+  - name: biznetgio.com
+    url: https://biznetgio.com
+  - name: boc.co.id
+    url: https://boc.co.id
   - name: Byakta.com
     url: https://byakta.com
-  - name: CLoudbip.com
+  - name: cloudraya.com
+    url: https://cloudraya.com
+  - name: cp.cloudraya.com
+    url: https://cp.cloudraya.com
+  - name: citrahost.com
+    url: https://citrahost.com
+  - name: rumahweb.com
+    url: https://rumahweb.com
+  - name: clientzon.rumahweb.com
+    url: https://clientzone.rumahweb.com
+  - name: cLoudbip.com
     url: https://cloudbip.com
+  - name: dihostingin.com
+    url: https://dihostingin.com
+  - name: member.dihostingin.com
+    url: https://member.dihostingin.com
+  - name: dewabiz.com
+    url: https://dewabiz.com
+  - name: my.dewabiz.com
+    url: https://my.dewabiz.com
+  - name: cloudkilat.com
+    url: https://cloudkilat.com
+  - name: portal.cloudkilat.com
+    url: https://portal.cloudkilat.com
+  - name: idcloudhost.com
+    url: https://idcloudhost.com
+  - name: console.idcloudhost.com
+    url: https://console.idcloudhost.com
+  - name: my.idcloudhost.com
+    url: https://my.idcloudhost.com
+  - name: dapurhosting.com
+    url: https://dapurhosting.com
+  - name: dewaweb.com
+    url: https://dewaweb.com
+  - name: dijaminmurah.com
+    url: https://dijaminmurah.com
+  - name: domainesia.com
+    url: https://domainesia.com  
+  - name: hostingan.id
+    url: https://hostingan.id
+   - name: my.domainesia.com
+    url: https://my.domainesia.com
+  - name: exabytes.co.id
+    url: https://exabytes.co.id
+  - name: go.exabytes.co.id
+    url: https://go.exabytes.co.id
+  - name: herza.id
+    url: https://herza.id
+  - name: hoster.co.id
+    url: https://hoster.co.id
+  - name: hostinger.co.id
+    url: https://hostinger.co.id
+  - name: hostingpas.com
+    url: https://hostingpas.com
+  - name: id.hosting24.com
+    url: https://id.hosting24.com
+  - name: idwebhost.com
+    url: https://idwebhost.com
+  - name: member.idwebhost.com
+    url: https://member.idwebhost.com   
+  - name: indosite.com
+    url: https://indosite.com
+  - name: indukweb.com
+    url: https://indukweb.com
+  - name: Jagoanhosting.com
+    url: https://www.jagoanhosting.com
+  - name: jakartawebhosting.com
+    url: https://jakartawebhosting.com
+  - name: jetorbit.com
+    url: https://jetorbit.com
+  - name: jogjahost.co.id
+    url: https://jogjahost.co.id
+  - name: masterweb.com
+    url: https://masterweb.com
+  - name: masterkey.masterweb.com
+    url: https://masterkey.masterweb.com
+  - name: niagahoster.co.id
+    url: https://niagahoster.co.id
+  - name: portal.neo.id
+    url: https://portal.neo.id
+  - name: web.neo.id
+    url: https://web.neo.id
+  - name: qwords.com
+    url: https://qwords.com
+  - name: portal.qwords.com
+    url: https://portal.qwords.com
+  - name: puskomedia.id
+    url: https://puskomedia.id
+  - name: rackrock.co.id
+    url: https://rackrock.co.id
+  - name: sketsaweb.com
+    url: https://sketsaweb.com
+  - name: idnix.net
+    url: https://idnix.net
+  - name: connectindo.com
+    url: https://connectindo.com
+  - name: flazznetworks.com
+    url: https://flazznetworks.com
+  - name: natatanetwork.com
+    url: https://natatanetwork.com
+  - name: sintegrasi
+    url: https://sintegrasi.com
+  - name: telkomsigma.co.id
+    url: https://telkomsigma.co.id
+  - name: bestariwebhost.co.id
+    url: https://bestariwebhost.co.id
+  - name: rajamitra.co.id
+    url: https://rajamitra.co.id
+  - name: kencengsolusindo.co.id
+    url: https://kencengsolusindo.co.id
+  - name: arthamedia.co.id
+    url: https://arthamedia.co.id
+  - name: webiihost.com
+    url: https://webiihost.com
+  - name: dobelhost.com
+    url: https://dobelhost.com
+  - name: biggo.id
+    url: https://biggo.id
+  - name: nusa.id
+    url: https://nusa.id
+  - name: sarang.id
+    url: https://sarang.id
+  - name: palapacloud.id
+    url: https://palapacloud.id
+  - name: biznetnetworks.com
+    url: https://biznetnetworks.com
+  - name: kuoota.com
+    url: https://kuoota.com
+    
+  - name: digitalocean.com
+    url: https://digitalocean.com
+  - name: upcloud.com
+    url: https://upcloud.com
+  - name: vultr.com
+    url: https://vultr.com
+  - name: ovh.com
+    url: https://ovh.com
+  - name: google.com
+    url: https://google.com
+  - name: cloudflare.com
+    url: https://cloudflare.com
+  - name: detik.com
+    url: https://detik.com
+  - name: kompas.com
+    url: https://kompas.com
+    
+    
+  - name: lintas.net.id
+    url: https://lintas.net.id
+    
+    
+  - name: berdu.id
+    url: https://berdu.id
+  - name: mokapos.com
+    url: https://mokapos.com
+  - name: daeliweb.com
+    url: https://daeliweb.com
+  - name: melejit.id
+    url: https://melejit.id
   - name: sitemaya.com
     url: https://sitemaya.com
 
@@ -19,7 +186,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.cloudbip.com
   # baseUrl: /your-repo-name
-  logoUrl: https://cloudbip.com/wp-content/uploads/2021/07/Cloudbip-Logo-11-1.png
+  logoUrl: https://raw.githubusercontent.com/cloudbip/upptime/master/assets/Cloudbip-logo.png
   name: Cloudbip Uptime
   introTitle: "Cloudbip Uptime Monitoring"
   introMessage: Check latest information from cloudbip.com
