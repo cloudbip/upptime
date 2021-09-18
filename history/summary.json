@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.000webhost.com",
     "slug": "000webhost-com",
     "status": "down",
-    "uptime": "88.99%",
-    "uptimeDay": "88.99%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "88.99%",
-    "uptimeYear": "88.99%",
+    "uptime": "90.45%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
     "time": 78,
     "timeDay": 78,
     "timeWeek": 78,
@@ -169,11 +169,11 @@
     "icon": "https://favicons.githubusercontent.com/cp.cloudraya.com",
     "slug": "cp-cloudraya-com",
     "status": "up",
-    "uptime": "91.59%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "91.59%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "91.59%",
+    "uptime": "92.70%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "92.70%",
     "time": 1339,
     "timeDay": 1339,
     "timeWeek": 1339,
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-18": 224
+      "2021-09-18": 258
     }
   },
   {
@@ -1037,18 +1037,18 @@
     "icon": "https://favicons.githubusercontent.com/bestariwebhost.co.id",
     "slug": "bestariwebhost-co-id",
     "status": "up",
-    "uptime": "58.00%",
-    "uptimeDay": "58.00%",
-    "uptimeWeek": "58.00%",
-    "uptimeMonth": "58.00%",
-    "uptimeYear": "58.00%",
+    "uptime": "67.05%",
+    "uptimeDay": "67.05%",
+    "uptimeWeek": "67.05%",
+    "uptimeMonth": "67.05%",
+    "uptimeYear": "67.05%",
     "time": 2026,
     "timeDay": 2026,
     "timeWeek": 2026,
     "timeMonth": 2026,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2021-09-18": 94
+      "2021-09-18": 85
     }
   },
   {
@@ -1380,18 +1380,20 @@
     "url": "https://berdu.id",
     "icon": "https://favicons.githubusercontent.com/berdu.id",
     "slug": "berdu-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 1812,
     "timeDay": 1812,
     "timeWeek": 1812,
     "timeMonth": 1812,
     "timeYear": 1812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 1
+    }
   },
   {
     "name": "mokapos.com",
