@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.000webhost.com",
     "slug": "000webhost-com",
     "status": "down",
-    "uptime": "93.66%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "93.66%",
-    "uptimeYear": "93.66%",
+    "uptime": "93.93%",
+    "uptimeDay": "93.93%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "93.93%",
     "time": 78,
     "timeDay": 78,
     "timeWeek": 78,
@@ -169,11 +169,11 @@
     "icon": "https://favicons.githubusercontent.com/cp.cloudraya.com",
     "slug": "cp-cloudraya-com",
     "status": "up",
-    "uptime": "95.16%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "95.16%",
-    "uptimeYear": "95.16%",
+    "uptime": "95.37%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "95.37%",
     "time": 1339,
     "timeDay": 1339,
     "timeWeek": 1339,
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-18": 390
+      "2021-09-18": 407
     }
   },
   {
@@ -1036,19 +1036,19 @@
     "url": "https://bestariwebhost.co.id",
     "icon": "https://favicons.githubusercontent.com/bestariwebhost.co.id",
     "slug": "bestariwebhost-co-id",
-    "status": "down",
-    "uptime": "54.55%",
-    "uptimeDay": "54.55%",
-    "uptimeWeek": "54.55%",
-    "uptimeMonth": "54.55%",
-    "uptimeYear": "54.55%",
-    "time": 2139,
-    "timeDay": 2139,
-    "timeWeek": 2139,
-    "timeMonth": 2139,
-    "timeYear": 2139,
+    "status": "up",
+    "uptime": "52.55%",
+    "uptimeDay": "52.55%",
+    "uptimeWeek": "52.55%",
+    "uptimeMonth": "52.55%",
+    "uptimeYear": "52.55%",
+    "time": 2045,
+    "timeDay": 2045,
+    "timeWeek": 2045,
+    "timeMonth": 2045,
+    "timeYear": 2045,
     "dailyMinutesDown": {
-      "2021-09-18": 177
+      "2021-09-18": 193
     }
   },
   {
@@ -1380,18 +1380,20 @@
     "url": "https://berdu.id",
     "icon": "https://favicons.githubusercontent.com/berdu.id",
     "slug": "berdu-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1796,
     "timeDay": 1796,
     "timeWeek": 1796,
     "timeMonth": 1796,
     "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 1
+    }
   },
   {
     "name": "mokapos.com",
