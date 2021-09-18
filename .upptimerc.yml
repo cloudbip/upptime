@@ -178,7 +178,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/cloudbip/upptime/master/assets/Cloudbip-logo.png
   name: Cloudbip Uptime
-  introTitle: "Cloudbip Uptime Monitoring"
+  introTitle: "Monitoring"
   introMessage: Check latest information from cloudbip.com
   navbar:
     - title: Status
