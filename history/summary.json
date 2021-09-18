@@ -331,18 +331,18 @@
     "icon": "https://favicons.githubusercontent.com/cloudkilat.com",
     "slug": "cloudkilat-com",
     "status": "down",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-18": 8
+      "2021-09-18": 9
     }
   },
   {
@@ -423,11 +423,11 @@
     "icon": "https://favicons.githubusercontent.com/dapurhosting.com",
     "slug": "dapurhosting-com",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 861,
     "timeDay": 861,
     "timeWeek": 861,
@@ -713,18 +713,18 @@
     "icon": "https://favicons.githubusercontent.com/indukweb.com",
     "slug": "indukweb-com",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2021-09-18": 7
+      "2021-09-18": 8
     }
   },
   {
@@ -1057,19 +1057,17 @@
     "icon": "https://favicons.githubusercontent.com/www.telkomsigma.co.id",
     "slug": "telkomsigma-co-id",
     "status": "up",
-    "uptime": "17.52%",
-    "uptimeDay": "17.52%",
-    "uptimeWeek": "17.52%",
-    "uptimeMonth": "17.52%",
-    "uptimeYear": "17.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2313,
     "timeDay": 2313,
     "timeWeek": 2313,
     "timeMonth": 2313,
     "timeYear": 2313,
-    "dailyMinutesDown": {
-      "2021-09-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bestariwebhost.co.id",
@@ -1095,18 +1093,18 @@
     "icon": "https://favicons.githubusercontent.com/rajamitra.co.id",
     "slug": "rajamitra-co-id",
     "status": "down",
-    "uptime": "1.40%",
-    "uptimeDay": "1.40%",
-    "uptimeWeek": "1.40%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "1.40%",
+    "uptime": "1.32%",
+    "uptimeDay": "1.32%",
+    "uptimeWeek": "1.32%",
+    "uptimeMonth": "1.32%",
+    "uptimeYear": "1.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-18": 6
+      "2021-09-18": 7
     }
   },
   {
