@@ -59,7 +59,7 @@ sites:
     url: https://domainesia.com  
   - name: hostingan.id
     url: https://hostingan.id
-   - name: my.domainesia.com
+  - name: my.domainesia.com
     url: https://my.domainesia.com
   - name: exabytes.co.id
     url: https://exabytes.co.id
