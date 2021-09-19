@@ -39,8 +39,6 @@ sites:
     url: https://dewabiz.com
   - name: my.dewabiz.com
     url: https://my.dewabiz.com
-  - name: cloudkilat.com
-    url: http://www.cloudkilat.com
   - name: portal.cloudkilat.com
     url: https://portal.cloudkilat.com
   - name: idcloudhost.com
@@ -187,11 +185,11 @@ sites:
   - name: pgascom.co.id
     url: https://www.pgascom.co.id/
   - name: rad.net.id
-    url: https://rad.net.id
+    url: http://rad.net.id
   - name: indonet.co.id
     url: https://indonet.id
   - name: indosatm2.com
-    url: https://indosatm2.com
+    url: http://indosatm2.com/
   - name: melsa.id
     url: https://melsa.id
   - name: myrepublic.co.id
