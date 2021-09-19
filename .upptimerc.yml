@@ -40,7 +40,7 @@ sites:
   - name: my.dewabiz.com
     url: https://my.dewabiz.com
   - name: cloudkilat.com
-    url: https://www.cloudkilat.com
+    url: http://www.cloudkilat.com
   - name: portal.cloudkilat.com
     url: https://portal.cloudkilat.com
   - name: idcloudhost.com
@@ -117,8 +117,6 @@ sites:
     url: https://sintegrasi.com
   - name: telkomsigma.co.id
     url: https://www.telkomsigma.co.id
-  - name: bestariwebhost.co.id
-    url: https://bestariwebhost.co.id
   - name: kencengsolusindo.co.id
     url: https://kencengsolusindo.co.id
   - name: webiihost.com
@@ -137,6 +135,30 @@ sites:
     url: https://biznetnetworks.com
   - name: kuoota.com
     url: https://kuoota.com
+    
+  - name: wix.com
+    url: https://wix.com
+  - name: bluehost.com
+    url: https://bluehost.com
+  - name: shopify.com
+    url: https://shopify.com
+  - name: webflow.com
+    url: https://webflow.com
+  - name: squarespace.com
+    url: https://www.squarespace.com
+  - name: carrd.co
+    url: https://carrd.co
+  - name: weebly.com
+    url: https://www.weebly.com
+  - name: zyro.com
+    url: https://zyro.com
+  - name: bigcommerce.com
+    url: https://www.bigcommerce.com
+  - name: wordpress.com
+    url: https://wordpress.com
+  - name: duda.co
+    url: https://duda.co
+  
     
   - name: digitalocean.com
     url: https://digitalocean.com
@@ -158,7 +180,32 @@ sites:
     
   - name: lintas.net.id
     url: https://lintas.net.id
-    
+  - name: cbn.id
+    url: https://cbn.id
+  - name: hsp.net.id
+    url: https://hsp.net.id
+  - name: pgascom.co.id
+    url: https://www.pgascom.co.id/
+  - name: rad.net.id
+    url: https://rad.net.id
+  - name: indonet.co.id
+    url: https://indonet.id
+  - name: indosatm2.com
+    url: https://indosatm2.com
+  - name: melsa.id
+    url: https://melsa.id
+  - name: myrepublic.co.id
+    url: https://myrepublic.co.id
+  - name: mncplay.id
+    url: https://mncplay.id
+  - name: telkom.co.id
+    url: https://www.telkom.co.id/sites  
+  - name: telkomsel.com
+    url: https://www.telkomsel.com
+  - name: indosatooredoo.comm
+    url: https://indosatooredoo.com
+  - name: xl.co.id
+    url: https://xl.co.id
     
   - name: berdu.id
     url: https://berdu.id
@@ -170,6 +217,9 @@ sites:
     url: https://melejit.id
   - name: sitemaya.com
     url: https://sitemaya.com
+    
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -177,7 +227,7 @@ status-website:
   cname: uptime.cloudbip.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/cloudbip/upptime/master/assets/Cloudbip-logo.png
-  name: Website Uptime
+  name: Monitor
   introTitle: "Website Uptime"
   introMessage: Check latest information from cloudbip.com
   navbar:
