@@ -79,6 +79,8 @@ sites:
     url: https://indosite.com
   - name: Jagoanhosting.com
     url: https://www.jagoanhosting.com
+  - name: member.jagoanhosting.com
+    url: https://member.jagoanhosting.com
   - name: jakartawebhosting.com
     url: https://jakartawebhosting.com
   - name: jetorbit.com
