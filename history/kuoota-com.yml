@@ -1,7 +1,7 @@
 url: https://kuoota.com
-status: up
-code: 200
-responseTime: 5942
-lastUpdated: 2021-10-06T23:19:10.904Z
+status: down
+code: 502
+responseTime: 5889
+lastUpdated: 2021-10-07T10:03:03.842Z
 startTime: Sat Sep 18 2021 16:18:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
