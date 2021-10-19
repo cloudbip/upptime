@@ -1,7 +1,7 @@
 url: https://sitemaya.com
-status: up
-code: 200
-responseTime: 2090
-lastUpdated: 2021-10-18T23:32:38.920Z
+status: down
+code: 502
+responseTime: 980
+lastUpdated: 2021-10-19T09:29:51.482Z
 startTime: Sat Sep 18 2021 15:04:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
