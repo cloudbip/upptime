@@ -1,7 +1,7 @@
 url: https://byakta.com
-status: up
-code: 200
-responseTime: 880
-lastUpdated: 2021-10-31T18:23:23.471Z
+status: down
+code: 503
+responseTime: 624
+lastUpdated: 2021-10-31T20:41:49.398Z
 startTime: Sat Sep 18 2021 15:04:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
