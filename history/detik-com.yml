@@ -1,7 +1,7 @@
 url: https://detik.com
-status: up
-code: 200
-responseTime: 4073
-lastUpdated: 2021-12-27T23:18:56.976Z
+status: down
+code: 502
+responseTime: 12878
+lastUpdated: 2021-12-29T09:15:13.484Z
 startTime: Sat Sep 18 2021 16:18:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
