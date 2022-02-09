@@ -1,7 +1,7 @@
 url: https://zyro.com
-status: up
-code: 200
-responseTime: 825
-lastUpdated: 2022-02-08T23:18:11.040Z
+status: down
+code: 403
+responseTime: 109
+lastUpdated: 2022-02-09T04:31:18.107Z
 startTime: Sun Sep 19 2021 03:25:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
