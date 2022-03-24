@@ -352,7 +352,7 @@
     "timeMonth": 537,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2022-03-24": 1074,
+      "2022-03-24": 1084,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
@@ -725,18 +725,18 @@
     "icon": "https://favicons.githubusercontent.com/my.dewabiz.com",
     "slug": "my-dewabiz-com",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.41%",
-    "uptimeYear": "95.41%",
+    "uptimeMonth": "74.38%",
+    "uptimeYear": "95.40%",
     "time": 3351,
     "timeDay": 0,
     "timeWeek": 2678,
     "timeMonth": 3744,
     "timeYear": 3351,
     "dailyMinutesDown": {
-      "2022-03-24": 1074,
+      "2022-03-24": 1084,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
@@ -2789,7 +2789,7 @@
     "timeMonth": 0,
     "timeYear": 5887,
     "dailyMinutesDown": {
-      "2022-03-24": 1076,
+      "2022-03-24": 1086,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
@@ -3198,11 +3198,11 @@
     "url": "https://mncplay.id",
     "icon": "https://favicons.githubusercontent.com/mncplay.id",
     "slug": "mncplay-id",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "78.53%",
-    "uptimeMonth": "93.34%",
+    "uptimeDay": "58.92%",
+    "uptimeWeek": "78.51%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "98.27%",
     "time": 11185,
     "timeDay": 7987,
@@ -3210,7 +3210,7 @@
     "timeMonth": 8914,
     "timeYear": 11185,
     "dailyMinutesDown": {
-      "2022-03-24": 501,
+      "2022-03-24": 504,
       "2022-03-23": 570,
       "2022-03-22": 419,
       "2022-03-21": 586,
@@ -3233,7 +3233,7 @@
       "2022-02-18": 51,
       "2022-02-15": 359,
       "2022-02-14": 1021,
-      "2022-02-13": 253
+      "2022-02-13": 234
     }
   },
   {
@@ -3409,7 +3409,7 @@
     "timeMonth": 0,
     "timeYear": 3987,
     "dailyMinutesDown": {
-      "2022-03-24": 1077,
+      "2022-03-24": 1086,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
