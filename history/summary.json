@@ -359,7 +359,7 @@
     "timeMonth": 537,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2022-04-02": 1296,
+      "2022-04-02": 1307,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
@@ -746,8 +746,8 @@
     "slug": "my-dewabiz-com",
     "status": "up",
     "uptime": "90.96%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.04%",
+    "uptimeDay": "0.98%",
+    "uptimeWeek": "0.14%",
     "uptimeMonth": "44.32%",
     "uptimeYear": "90.96%",
     "time": 3323,
@@ -2414,8 +2414,8 @@
     "status": "down",
     "uptime": "98.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.36%",
-    "uptimeMonth": "91.91%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "98.66%",
     "time": 1021,
     "timeDay": 252,
@@ -2423,7 +2423,7 @@
     "timeMonth": 773,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2022-04-02": 1298,
+      "2022-04-02": 1309,
       "2022-04-01": 1440,
       "2022-03-31": 48,
       "2022-03-24": 18,
@@ -2854,7 +2854,7 @@
     "timeMonth": 0,
     "timeYear": 5887,
     "dailyMinutesDown": {
-      "2022-04-02": 1298,
+      "2022-04-02": 1309,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
@@ -3274,11 +3274,11 @@
     "url": "https://mncplay.id",
     "icon": "https://favicons.githubusercontent.com/mncplay.id",
     "slug": "mncplay-id",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.13%",
-    "uptimeMonth": "90.64%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "80.10%",
+    "uptimeMonth": "90.67%",
     "uptimeYear": "98.55%",
     "time": 10291,
     "timeDay": 4951,
@@ -3286,6 +3286,7 @@
     "timeMonth": 8394,
     "timeYear": 10291,
     "dailyMinutesDown": {
+      "2022-04-02": 3,
       "2022-03-31": 121,
       "2022-03-30": 488,
       "2022-03-29": 386,
@@ -3294,7 +3295,7 @@
       "2022-03-26": 552,
       "2022-03-25": 498,
       "2022-03-24": 611,
-      "2022-03-23": 453
+      "2022-03-23": 438
     }
   },
   {
@@ -3470,7 +3471,7 @@
     "timeMonth": 0,
     "timeYear": 3987,
     "dailyMinutesDown": {
-      "2022-04-02": 1299,
+      "2022-04-02": 1310,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
