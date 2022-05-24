@@ -16,7 +16,7 @@
     "timeMonth": 120,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-05-24": 711,
+      "2022-05-24": 720,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 929,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2022-05-24": 711,
+      "2022-05-24": 721,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -729,7 +729,7 @@
     "uptime": "92.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.86%",
+    "uptimeMonth": "39.84%",
     "uptimeYear": "92.43%",
     "time": 900,
     "timeDay": 0,
@@ -737,7 +737,7 @@
     "timeMonth": 2089,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2022-05-24": 711,
+      "2022-05-24": 721,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -2560,8 +2560,8 @@
     "status": "up",
     "uptime": "69.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.86%",
-    "uptimeMonth": "22.06%",
+    "uptimeWeek": "89.95%",
+    "uptimeMonth": "22.08%",
     "uptimeYear": "69.72%",
     "time": 1964,
     "timeDay": 2047,
@@ -2741,7 +2741,7 @@
     "timeMonth": 300,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-05-24": 714,
+      "2022-05-24": 723,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -3083,8 +3083,8 @@
     "status": "up",
     "uptime": "91.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "77.32%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "77.30%",
     "uptimeYear": "91.44%",
     "time": 596,
     "timeDay": 193,
@@ -3092,7 +3092,7 @@
     "timeMonth": 621,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-05-24": 714,
+      "2022-05-24": 723,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -3255,7 +3255,7 @@
     "timeMonth": 0,
     "timeYear": 5887,
     "dailyMinutesDown": {
-      "2022-05-24": 714,
+      "2022-05-24": 723,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -3486,11 +3486,11 @@
     "url": "https://cbn.id",
     "icon": "https://favicons.githubusercontent.com/cbn.id",
     "slug": "cbn-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 1571,
     "timeDay": 1829,
@@ -3498,7 +3498,7 @@
     "timeMonth": 1593,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2022-05-24": 144
+      "2022-05-24": 148
     }
   },
   {
