@@ -1,7 +1,7 @@
 url: https://www.telkom.co.id/sites
-status: up
-code: 200
-responseTime: 5565
-lastUpdated: 2022-10-25T13:47:32.391Z
+status: down
+code: 503
+responseTime: 601
+lastUpdated: 2022-10-25T19:30:05.195Z
 startTime: Sun Sep 19 2021 03:26:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
