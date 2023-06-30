@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.000webhost.com.ico",
     "slug": "000webhost-com",
     "status": "up",
-    "uptime": "54.97%",
+    "uptime": "54.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "61.12%",
+    "uptimeYear": "61.15%",
     "time": 497,
     "timeDay": 0,
     "timeWeek": 436,
@@ -160,8 +160,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -297,7 +296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/argonhost.com.ico",
     "slug": "argonhost-com",
     "status": "up",
-    "uptime": "90.46%",
+    "uptime": "90.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.81%",
@@ -563,7 +562,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "88.01%",
+    "uptimeYear": "88.03%",
     "time": 794,
     "timeDay": 0,
     "timeWeek": 958,
@@ -627,8 +626,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -730,7 +728,7 @@
     "uptime": "91.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.59%",
+    "uptimeMonth": "35.86%",
     "uptimeYear": "84.60%",
     "time": 1351,
     "timeDay": 0,
@@ -843,7 +841,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rumahweb.com.ico",
     "slug": "rumahweb-com",
     "status": "up",
-    "uptime": "80.47%",
+    "uptime": "80.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1003,7 +1001,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-29": 1397,
+      "2023-06-30": 78,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -1366,8 +1365,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -1376,10 +1374,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dihostingin.com.ico",
     "slug": "dihostingin-com",
     "status": "down",
-    "uptime": "97.39%",
+    "uptime": "97.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.55%",
-    "uptimeMonth": "77.57%",
+    "uptimeWeek": "1.35%",
+    "uptimeMonth": "77.30%",
     "uptimeYear": "97.97%",
     "time": 2747,
     "timeDay": 0,
@@ -1387,7 +1385,8 @@
     "timeMonth": 2135,
     "timeYear": 2692,
     "dailyMinutesDown": {
-      "2023-06-29": 1398,
+      "2023-06-30": 78,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -1399,8 +1398,7 @@
       "2022-08-18": 258,
       "2022-07-25": 121,
       "2022-07-24": 2,
-      "2022-07-01": 18,
-      "2022-06-30": 385
+      "2022-07-01": 18
     }
   },
   {
@@ -1409,10 +1407,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/member.dihostingin.com.ico",
     "slug": "member-dihostingin-com",
     "status": "down",
-    "uptime": "92.34%",
+    "uptime": "92.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.24%",
-    "uptimeMonth": "77.41%",
+    "uptimeWeek": "1.04%",
+    "uptimeMonth": "77.14%",
     "uptimeYear": "96.44%",
     "time": 1964,
     "timeDay": 0,
@@ -1420,7 +1418,8 @@
     "timeMonth": 2708,
     "timeYear": 2133,
     "dailyMinutesDown": {
-      "2023-06-29": 1398,
+      "2023-06-30": 78,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -1451,8 +1450,7 @@
       "2022-08-17": 48,
       "2022-07-25": 121,
       "2022-07-24": 2,
-      "2022-07-01": 18,
-      "2022-06-30": 385
+      "2022-07-01": 18
     }
   },
   {
@@ -1851,11 +1849,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dewaweb.com.ico",
     "slug": "dewaweb-com",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.03%",
+    "uptimeYear": "90.06%",
     "time": 785,
     "timeDay": 0,
     "timeWeek": 843,
@@ -1907,8 +1905,7 @@
       "2022-08-06": 18,
       "2022-07-25": 122,
       "2022-07-24": 1,
-      "2022-07-01": 18,
-      "2022-06-30": 401
+      "2022-07-01": 18
     }
   },
   {
@@ -2047,8 +2044,7 @@
       "2022-07-21": 26,
       "2022-07-14": 20,
       "2022-07-12": 25,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -2237,8 +2233,7 @@
       "2022-07-24": 1,
       "2022-07-21": 26,
       "2022-07-02": 28,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -2250,7 +2245,7 @@
     "uptime": "85.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.29%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "76.80%",
     "time": 4823,
     "timeDay": 0,
@@ -2372,7 +2367,7 @@
     "uptime": "81.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.29%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "66.47%",
     "time": 2949,
     "timeDay": 0,
@@ -2559,8 +2554,7 @@
       "2022-07-25": 122,
       "2022-07-24": 1,
       "2022-07-16": 47,
-      "2022-07-01": 18,
-      "2022-06-30": 70
+      "2022-07-01": 18
     }
   },
   {
@@ -2638,8 +2632,7 @@
       "2022-07-17": 16,
       "2022-07-14": 32,
       "2022-07-03": 21,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -2718,8 +2711,7 @@
       "2022-09-14": 198,
       "2022-07-25": 122,
       "2022-07-24": 1,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -2782,18 +2774,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/idwebhost.com.ico",
     "slug": "idwebhost-com",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.56%",
-    "uptimeYear": "87.76%",
+    "uptimeMonth": "65.28%",
+    "uptimeYear": "87.74%",
     "time": 1624,
     "timeDay": 0,
     "timeWeek": 1599,
     "timeMonth": 1546,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2023-06-29": 1399,
+      "2023-06-30": 80,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -2852,18 +2845,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/member.idwebhost.com.ico",
     "slug": "member-idwebhost-com",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.56%",
-    "uptimeYear": "90.98%",
+    "uptimeMonth": "65.29%",
+    "uptimeYear": "90.96%",
     "time": 1749,
     "timeDay": 0,
     "timeWeek": 1853,
     "timeMonth": 1770,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2023-06-29": 1399,
+      "2023-06-30": 80,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -2969,7 +2963,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.88%",
     "time": 3214,
     "timeDay": 0,
     "timeWeek": 3790,
@@ -2980,8 +2974,7 @@
       "2023-03-09": 33,
       "2022-07-25": 122,
       "2022-07-24": 1,
-      "2022-07-01": 18,
-      "2022-06-30": 401
+      "2022-07-01": 18
     }
   },
   {
@@ -3012,7 +3005,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/member.jagoanhosting.com.ico",
     "slug": "member-jagoanhosting-com",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.90%",
@@ -3085,8 +3078,7 @@
       "2022-07-28": 25,
       "2022-07-25": 123,
       "2022-07-24": 1,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -3195,8 +3187,7 @@
       "2022-08-20": 22,
       "2022-07-25": 123,
       "2022-07-24": 1,
-      "2022-07-01": 18,
-      "2022-06-30": 44
+      "2022-07-01": 18
     }
   },
   {
@@ -3374,8 +3365,7 @@
       "2022-07-25": 123,
       "2022-07-24": 1,
       "2022-07-14": 34,
-      "2022-07-01": 19,
-      "2022-06-30": 30
+      "2022-07-01": 19
     }
   },
   {
@@ -3384,18 +3374,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.neo.id.ico",
     "slug": "portal-neo-id",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "59.29%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "58.08%",
+    "uptimeMonth": "90.35%",
+    "uptimeYear": "99.19%",
     "time": 1225,
     "timeDay": 0,
     "timeWeek": 1185,
     "timeMonth": 1235,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2023-06-29": 1399,
+      "2023-06-30": 81,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1192,
       "2023-06-26": 72,
@@ -3509,18 +3500,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.qwords.com.ico",
     "slug": "portal-qwords-com",
     "status": "up",
-    "uptime": "91.91%",
+    "uptime": "91.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.39%",
-    "uptimeYear": "85.75%",
+    "uptimeMonth": "32.11%",
+    "uptimeYear": "85.72%",
     "time": 3589,
     "timeDay": 0,
     "timeWeek": 3301,
     "timeMonth": 3995,
     "timeYear": 3649,
     "dailyMinutesDown": {
-      "2023-06-29": 1400,
+      "2023-06-30": 81,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -3796,8 +3788,7 @@
       "2022-07-15": 370,
       "2022-07-12": 67,
       "2022-07-11": 95,
-      "2022-07-01": 19,
-      "2022-06-30": 44
+      "2022-07-01": 19
     }
   },
   {
@@ -3908,18 +3899,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flazznetworks.com.ico",
     "slug": "flazznetworks-com",
     "status": "up",
-    "uptime": "83.40%",
+    "uptime": "83.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.87%",
+    "uptimeYear": "70.85%",
     "time": 2208,
     "timeDay": 0,
     "timeWeek": 1950,
     "timeMonth": 2616,
     "timeYear": 2146,
     "dailyMinutesDown": {
-      "2023-06-29": 1400,
+      "2023-06-30": 81,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -4081,8 +4073,7 @@
       "2022-07-25": 124,
       "2022-07-06": 16,
       "2022-07-02": 37,
-      "2022-07-01": 19,
-      "2022-06-30": 45
+      "2022-07-01": 19
     }
   },
   {
@@ -4091,18 +4082,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telkomsigma.co.id.ico",
     "slug": "telkomsigma-co-id",
     "status": "up",
-    "uptime": "89.84%",
+    "uptime": "89.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.94%",
-    "uptimeYear": "81.95%",
+    "uptimeMonth": "72.66%",
+    "uptimeYear": "81.92%",
     "time": 2316,
     "timeDay": 0,
     "timeWeek": 2124,
     "timeMonth": 2043,
     "timeYear": 2229,
     "dailyMinutesDown": {
-      "2023-06-29": 1400,
+      "2023-06-30": 82,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -4416,7 +4408,7 @@
     "uptime": "93.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.84%",
+    "uptimeMonth": "72.12%",
     "uptimeYear": "89.31%",
     "time": 1627,
     "timeDay": 0,
@@ -4509,7 +4501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-29": 1401,
+      "2023-06-30": 82,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -4872,8 +4865,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -5097,8 +5089,7 @@
       "2022-08-06": 1227,
       "2022-07-25": 124,
       "2022-07-06": 17,
-      "2022-07-01": 19,
-      "2022-06-30": 45
+      "2022-07-01": 19
     }
   },
   {
@@ -5146,7 +5137,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluehost.com.ico",
     "slug": "bluehost-com",
     "status": "down",
-    "uptime": "29.77%",
+    "uptime": "29.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -5157,7 +5148,8 @@
     "timeMonth": 142,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-06-29": 1401,
+      "2023-06-30": 82,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -5520,8 +5512,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -5558,7 +5549,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webflow.com.ico",
     "slug": "webflow-com",
     "status": "up",
-    "uptime": "87.45%",
+    "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -5661,18 +5652,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.squarespace.com.ico",
     "slug": "squarespace-com",
     "status": "up",
-    "uptime": "65.12%",
+    "uptime": "65.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.99%",
+    "uptimeYear": "37.97%",
     "time": 301,
     "timeDay": 0,
     "timeWeek": 156,
     "timeMonth": 197,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-06-29": 1401,
+      "2023-06-30": 82,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -5970,8 +5962,7 @@
       "2022-07-25": 124,
       "2022-07-14": 34,
       "2022-07-04": 34,
-      "2022-07-01": 19,
-      "2022-06-30": 71
+      "2022-07-01": 19
     }
   },
   {
@@ -5980,18 +5971,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bigcommerce.com.ico",
     "slug": "bigcommerce-com",
     "status": "up",
-    "uptime": "83.00%",
+    "uptime": "82.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.82%",
+    "uptimeYear": "69.79%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 162,
     "timeMonth": 207,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-06-29": 1401,
+      "2023-06-30": 83,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -6132,18 +6124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/duda.co.ico",
     "slug": "duda-co",
     "status": "up",
-    "uptime": "76.42%",
+    "uptime": "76.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.09%",
+    "uptimeYear": "58.06%",
     "time": 454,
     "timeDay": 0,
     "timeWeek": 194,
     "timeMonth": 419,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-06-29": 1401,
+      "2023-06-30": 83,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -6318,8 +6311,7 @@
     "timeYear": 230,
     "dailyMinutesDown": {
       "2022-07-25": 124,
-      "2022-07-01": 19,
-      "2022-06-30": 45
+      "2022-07-01": 19
     }
   },
   {
@@ -6340,8 +6332,7 @@
     "timeYear": 430,
     "dailyMinutesDown": {
       "2022-07-25": 124,
-      "2022-07-01": 19,
-      "2022-06-30": 45
+      "2022-07-01": 19
     }
   },
   {
@@ -6361,7 +6352,8 @@
     "timeMonth": 264,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-06-29": 1402,
+      "2023-06-30": 83,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -6724,8 +6716,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -6745,7 +6736,8 @@
     "timeMonth": 1299,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2023-06-29": 1402,
+      "2023-06-30": 83,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -7034,8 +7026,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -7062,18 +7053,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudflare.com.ico",
     "slug": "cloudflare-com",
     "status": "up",
-    "uptime": "87.92%",
+    "uptime": "87.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.51%",
+    "uptimeYear": "78.49%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 122,
     "timeMonth": 152,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2023-06-29": 1402,
+      "2023-06-30": 83,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -7153,8 +7145,7 @@
       "2023-04-13": 1440,
       "2023-04-12": 483,
       "2022-07-25": 124,
-      "2022-07-01": 19,
-      "2022-06-30": 30
+      "2022-07-01": 19
     }
   },
   {
@@ -7211,7 +7202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kompas.com.ico",
     "slug": "kompas-com",
     "status": "up",
-    "uptime": "85.37%",
+    "uptime": "85.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -7330,11 +7321,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lintas.net.id.ico",
     "slug": "lintas-net-id",
     "status": "up",
-    "uptime": "23.57%",
+    "uptime": "23.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "73.62%",
-    "uptimeYear": "35.20%",
+    "uptimeMonth": "73.90%",
+    "uptimeYear": "35.22%",
     "time": 5603,
     "timeDay": 0,
     "timeWeek": 3189,
@@ -7590,8 +7581,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -7880,7 +7870,8 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2023-06-29": 1403,
+      "2023-06-30": 84,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -8240,8 +8231,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -8250,18 +8240,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/melsa.id.ico",
     "slug": "melsa-id",
     "status": "up",
-    "uptime": "93.66%",
+    "uptime": "93.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.97%",
-    "uptimeYear": "88.87%",
+    "uptimeMonth": "62.69%",
+    "uptimeYear": "88.84%",
     "time": 4273,
     "timeDay": 0,
     "timeWeek": 2860,
     "timeMonth": 3540,
     "timeYear": 4768,
     "dailyMinutesDown": {
-      "2023-06-29": 1403,
+      "2023-06-30": 84,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -8315,7 +8306,7 @@
     "slug": "myrepublic-co-id",
     "status": "up",
     "uptime": "92.33%",
-    "uptimeDay": "71.37%",
+    "uptimeDay": "79.77%",
     "uptimeWeek": "80.23%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "86.46%",
@@ -8447,8 +8438,8 @@
     "status": "up",
     "uptime": "81.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.10%",
-    "uptimeMonth": "18.37%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "18.64%",
     "uptimeYear": "66.82%",
     "time": 6145,
     "timeDay": 0,
@@ -8799,7 +8790,7 @@
     "status": "up",
     "uptime": "71.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.97%",
+    "uptimeWeek": "56.17%",
     "uptimeMonth": "44.79%",
     "uptimeYear": "49.02%",
     "time": 3415,
@@ -8999,8 +8990,7 @@
       "2022-08-14": 1395,
       "2022-07-25": 124,
       "2022-07-18": 25,
-      "2022-07-01": 19,
-      "2022-06-30": 45
+      "2022-07-01": 19
     }
   },
   {
@@ -9146,14 +9136,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.84%",
+    "uptimeYear": "13.81%",
     "time": 2384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2023-06-29": 1404,
+      "2023-06-30": 85,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
