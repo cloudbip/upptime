@@ -1,7 +1,7 @@
 url: https://biznetgio.com
-status: up
-code: 200
-responseTime: 217
-lastUpdated: 2023-09-04T23:57:55.972Z
+status: down
+code: 504
+responseTime: 10334
+lastUpdated: 2023-09-05T02:37:47.123Z
 startTime: 2021-09-18T16:15:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
