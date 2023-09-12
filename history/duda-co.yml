@@ -1,7 +1,7 @@
 url: https://duda.co
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2023-09-11T23:16:40.532Z
+status: down
+code: 502
+responseTime: 251
+lastUpdated: 2023-09-12T14:27:33.699Z
 startTime: 2021-09-19T03:25:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
