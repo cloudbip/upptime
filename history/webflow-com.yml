@@ -1,7 +1,7 @@
 url: https://webflow.com
-status: up
-code: 200
-responseTime: 75
-lastUpdated: 2023-10-19T04:16:39.563Z
+status: down
+code: 406
+responseTime: 180
+lastUpdated: 2023-10-19T04:59:01.363Z
 startTime: 2021-09-19T03:25:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
