@@ -1,7 +1,7 @@
 url: https://rackrock.co.id
-status: up
-code: 200
-responseTime: 1630
-lastUpdated: 2024-01-16T23:15:55.617Z
+status: down
+code: 503
+responseTime: 11058
+lastUpdated: 2024-01-17T07:01:15.172Z
 startTime: 2021-09-18T16:17:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
