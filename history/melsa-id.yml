@@ -1,7 +1,7 @@
 url: https://melsa.id
-status: up
-code: 200
-responseTime: 1820
-lastUpdated: 2024-03-30T03:21:16.283Z
+status: down
+code: 500
+responseTime: 6083
+lastUpdated: 2024-03-30T17:02:29.937Z
 startTime: 2021-09-19T03:26:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
